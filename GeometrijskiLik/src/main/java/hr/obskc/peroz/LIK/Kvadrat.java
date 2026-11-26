@@ -1,4 +1,4 @@
-package hr.obskc.peroz.rpg;
+package hr.obskc.peroz.LIK;
 
 public final class Kvadrat extends Pravokutnik { //klasa se ne može višse nasljeđivati -> final
     

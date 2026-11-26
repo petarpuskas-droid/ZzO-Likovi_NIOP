@@ -1,4 +1,4 @@
-package hr.obskc.peroz.rpg;
+package hr.obskc.peroz.LIK;
         
 public abstract class Oblik {
     

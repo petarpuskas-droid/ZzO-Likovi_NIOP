@@ -1,4 +1,4 @@
-package hr.obskc.peroz.rpg;
+package hr.obskc.peroz.LIK;
 
 public class Pravokutnik extends Oblik {  //eksplicitno izvedena klasa -> nasljeduje klasu Object (dio Jave)
     

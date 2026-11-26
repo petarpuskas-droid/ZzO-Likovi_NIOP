@@ -1,5 +1,5 @@
 
-package hr.obskc.peroz.rpg;
+package hr.obskc.peroz.LIK;
 
 public class Trokut extends Oblik{
     

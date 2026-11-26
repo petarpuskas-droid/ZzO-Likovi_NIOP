@@ -1,5 +1,5 @@
 
-package hr.obskc.peroz.rpg;
+package hr.obskc.peroz.LIK;
 public class Main {
 
     public static void main(String[] args) {
@@ -43,19 +43,6 @@ public class Main {
                 System.out.printf("%.2f %n", k.povrsina());
             }
         }
-    
-    /*
-            Drvo nasljeđivanja:
-            
-            GameCharacter (abstract)
-            |
-            |-Warrior -|
-            |          |-Knight
-            |
-            |-Mage
-            |
-            |-Archer
-    */
     }
     
     

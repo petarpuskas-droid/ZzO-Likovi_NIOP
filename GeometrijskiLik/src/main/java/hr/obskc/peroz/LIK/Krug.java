@@ -1,5 +1,5 @@
 
-package hr.obskc.peroz.rpg;
+package hr.obskc.peroz.LIK;
 
 import java.util.Objects;
 
@@ -53,16 +53,8 @@ public class Krug extends Oblik {
     }
     
     
-
-    
     @Override
     public String toString() {
         return "Krug[" +super.toString() + ", polumjer = " + polumjer + "]"; 
     }
-    
-    
-    
-    
-    
-    
 }
